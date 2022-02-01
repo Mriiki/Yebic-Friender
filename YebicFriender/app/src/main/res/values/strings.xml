@@ -2,12 +2,9 @@
     <string name="app_name">Yebic Friend-er</string>
     <string name="starteu">STARTEU</string>
     <string name="todo">TODO</string>
-    <string name="todo">TODO</string>
     <string name="points">Points :</string>
     <string name="question_no">Question No;</string>
     <string name="question">Question</string>
-    <string name="radiobutton">RadioButton</string>
-    <string name="radiobutton">RadioButton</string>
     <string name="radiobutton">RadioButton</string>
     <string name="button">Button</string>
     <string name="score">SCORE</string>
@@ -16,4 +13,5 @@
     <string name="lessgo_homee">LESSGO HOMEE</string>
     <string name="developed_by_mrinal_asj_workshop_by_gdsc">Developed by Mrinal (ASJ workshop by GDSC)</string>
     <string name="qnno">Question no:</string>
+    <string name="submit">SUBMIT</string>
 </resources>
