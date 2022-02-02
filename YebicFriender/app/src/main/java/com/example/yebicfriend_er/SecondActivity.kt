@@ -157,11 +157,12 @@ class SecondActivity : AppCompatActivity() {
         submitButton.setOnClickListener {
             clearAll()
 
+            if (answer == "None"){score += 0}
             if (answer == "A"){score += questionBank.get(questionNo).AW}
             if (answer == "B"){score += questionBank.get(questionNo).BW}
             if (answer == "C"){score += questionBank.get(questionNo).CW}
             pointText.text = "Points: $score"
-
+            answer = "None"
 
             if (questionNo < (questionBank.size - 1)) {
                 questionNo++

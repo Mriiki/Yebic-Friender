@@ -22,7 +22,7 @@ class ThirdActivity : AppCompatActivity() {
         var scoreINT = intent.getStringExtra("score" )?.toInt()
         if (scoreINT != null) {
             if(scoreINT < 40){
-                finalText.text = "Plis dont talk to me-_-"
+                finalText.text = "Plis dont talk to me -_-"
             }
         }
         if (scoreINT != null) {
