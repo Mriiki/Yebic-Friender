@@ -8,10 +8,14 @@
     <string name="radiobutton">RadioButton</string>
     <string name="button">Button</string>
     <string name="score">SCORE</string>
-    <string name="textview">TextView</string>
     <string name="_10_10">10/10</string>
     <string name="lessgo_homee">LESSGO HOMEE</string>
     <string name="developed_by_mrinal_asj_workshop_by_gdsc">Developed by Mrinal (ASJ workshop by GDSC)</string>
     <string name="qnno">Question no:</string>
     <string name="submit">SUBMIT</string>
+    <string name="textview">TextView</string>
+    <string name="highest_15">Highest: 15</string>
+    <string name="close_to_highest_10">Close to highest: 10</string>
+    <string name="lowest">Lowest</string>
+    <string name="lowest_5">Lowest:5</string>
 </resources>

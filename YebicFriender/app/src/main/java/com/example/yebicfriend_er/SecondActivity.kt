@@ -78,19 +78,19 @@ class SecondActivity : AppCompatActivity() {
                 "Mrinal usually goes by this name at college" ,
                 "Minnal" ,
                 5 ,
-                "Mriiki" ,
-                15 ,
                 "Mrigi" ,
-                10
+                10 ,
+                "Mriiki" ,
+                15
             )
         )
         questionBank.add(
             Question(
                 "Mrinal loves to eat" ,
-                "Galaxy" ,
-                5 ,
                 "Pizza" ,
                 15 ,
+                "Galaxy" ,
+                5 ,
                 "Brownie" ,
                 10
 
@@ -110,12 +110,12 @@ class SecondActivity : AppCompatActivity() {
         questionBank.add(
             Question(
                 "How many languages(spoken) does Mrinal know" ,
+                "6" ,
+                0 ,
                 "4" ,
                 0 ,
                 "5" ,
-                15 ,
-                "6" ,
-                0
+                15
 
             )
         )

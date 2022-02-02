@@ -32,7 +32,7 @@ class ThirdActivity : AppCompatActivity() {
         }
         if (scoreINT != null) {
             if(scoreINT > 60 && scoreINT <= 90){
-                finalText.text = "YAAYYY! YOU ARE THE YEBICESTT FRIEND!!!!"
+                finalText.text = "YAAYYY! YOU ARE THE YEBICESTT FRIEND!!!! CONGRATULATIONS!"
             }
         }
         backbutton.setOnClickListener {
