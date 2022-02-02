@@ -18,7 +18,7 @@ class SecondActivity : AppCompatActivity() {
 
     private lateinit var questionBank: ArrayList<Question>
     private var questionNo: Int = 0
-    private var answer: String = ""
+    private var answer: String = "None"
     private var score: Int = 0
 
 
@@ -132,9 +132,7 @@ class SecondActivity : AppCompatActivity() {
             )
         )
     }
-    fun isCorrect(value : String) : Boolean {
-        return answer == value
-    }
+
     fun initlisteners() {
         optionAText.setOnClickListener {
             clearAll()
